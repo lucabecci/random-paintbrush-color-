@@ -1,5 +1,5 @@
 # random-paintbrush-color-
-this example use a function "random()" made with p5
+in this example use a function "random()" made with p5
 
 test: https://lucabecci.github.io/random-paintbrush-color-/
 
